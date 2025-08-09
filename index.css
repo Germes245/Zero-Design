@@ -1,0 +1,74 @@
+@font-face {
+    font-family: 'jost';
+    src: url('fonts/jost/Jost.ttf');
+}
+*{
+    border: 1px solid red;
+    font-family: 'jost';
+}
+button{
+    border: 0;
+    padding: 0;
+    cursor: pointer;
+}
+#root{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+header{
+    width: 100%;
+    max-width: 1440px;
+    height: 114px;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+}
+#header_padding{
+    margin: 0 60px;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+}
+.part_of_header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+#central_link{
+    width: 137px;
+    height: 74px;
+    background-image: url('assets/IMAGE.svg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#nav_of_header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+#nav_of_header span{
+    font-size: 18px;
+    font-weight: 400;
+    margin: 0 10px;
+    cursor: pointer;
+}
+#button_buy_now{
+    width: 168px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    font-size: 18px;
+}
+.part_of_header-button{
+    background-color: #00000000;
+    width: 50px;
+    height: 50px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}

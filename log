@@ -1,0 +1,1187 @@
+Текущая ветка: main
+Эта ветка соответствует «origin/main».
+
+Изменения, которые будут включены в коммит:
+  (используйте «git restore --staged <файл>...», чтобы убрать из индекса)
+	новый файл:    7j1E4N_d.html
+	новый файл:    Cursor-1.1.3-x86_64.AppImage
+	новый файл:    GIMP-3.0.4-x86_64.AppImage
+	новый файл:    Insomnia.Core-11.1.0.deb
+	новый файл:    MullvadVPN-2025.5_amd64(2).deb
+	новый файл:    Normalize.css
+	новый файл:    OneFileLinux.efi
+	новый файл:    Postman/Postman
+	новый файл:    Postman/app/Postman
+	новый файл:    Postman/app/chrome-sandbox
+	новый файл:    Postman/app/chrome_100_percent.pak
+	новый файл:    Postman/app/chrome_200_percent.pak
+	новый файл:    Postman/app/chrome_crashpad_handler
+	новый файл:    Postman/app/icons/icon_128x128.png
+	новый файл:    Postman/app/icudtl.dat
+	новый файл:    Postman/app/libEGL.so
+	новый файл:    Postman/app/libGLESv2.so
+	новый файл:    Postman/app/libffmpeg.so
+	новый файл:    Postman/app/libvk_swiftshader.so
+	новый файл:    Postman/app/libvulkan.so.1
+	новый файл:    Postman/app/locales/af.pak
+	новый файл:    Postman/app/locales/am.pak
+	новый файл:    Postman/app/locales/ar.pak
+	новый файл:    Postman/app/locales/bg.pak
+	новый файл:    Postman/app/locales/bn.pak
+	новый файл:    Postman/app/locales/ca.pak
+	новый файл:    Postman/app/locales/cs.pak
+	новый файл:    Postman/app/locales/da.pak
+	новый файл:    Postman/app/locales/de.pak
+	новый файл:    Postman/app/locales/el.pak
+	новый файл:    Postman/app/locales/en-GB.pak
+	новый файл:    Postman/app/locales/en-US.pak
+	новый файл:    Postman/app/locales/es-419.pak
+	новый файл:    Postman/app/locales/es.pak
+	новый файл:    Postman/app/locales/et.pak
+	новый файл:    Postman/app/locales/fa.pak
+	новый файл:    Postman/app/locales/fi.pak
+	новый файл:    Postman/app/locales/fil.pak
+	новый файл:    Postman/app/locales/fr.pak
+	новый файл:    Postman/app/locales/gu.pak
+	новый файл:    Postman/app/locales/he.pak
+	новый файл:    Postman/app/locales/hi.pak
+	новый файл:    Postman/app/locales/hr.pak
+	новый файл:    Postman/app/locales/hu.pak
+	новый файл:    Postman/app/locales/id.pak
+	новый файл:    Postman/app/locales/it.pak
+	новый файл:    Postman/app/locales/ja.pak
+	новый файл:    Postman/app/locales/kn.pak
+	новый файл:    Postman/app/locales/ko.pak
+	новый файл:    Postman/app/locales/lt.pak
+	новый файл:    Postman/app/locales/lv.pak
+	новый файл:    Postman/app/locales/ml.pak
+	новый файл:    Postman/app/locales/mr.pak
+	новый файл:    Postman/app/locales/ms.pak
+	новый файл:    Postman/app/locales/nb.pak
+	новый файл:    Postman/app/locales/nl.pak
+	новый файл:    Postman/app/locales/pl.pak
+	новый файл:    Postman/app/locales/pt-BR.pak
+	новый файл:    Postman/app/locales/pt-PT.pak
+	новый файл:    Postman/app/locales/ro.pak
+	новый файл:    Postman/app/locales/ru.pak
+	новый файл:    Postman/app/locales/sk.pak
+	новый файл:    Postman/app/locales/sl.pak
+	новый файл:    Postman/app/locales/sr.pak
+	новый файл:    Postman/app/locales/sv.pak
+	новый файл:    Postman/app/locales/sw.pak
+	новый файл:    Postman/app/locales/ta.pak
+	новый файл:    Postman/app/locales/te.pak
+	новый файл:    Postman/app/locales/th.pak
+	новый файл:    Postman/app/locales/tr.pak
+	новый файл:    Postman/app/locales/uk.pak
+	новый файл:    Postman/app/locales/ur.pak
+	новый файл:    Postman/app/locales/vi.pak
+	новый файл:    Postman/app/locales/zh-CN.pak
+	новый файл:    Postman/app/locales/zh-TW.pak
+	новый файл:    Postman/app/postman
+	новый файл:    Postman/app/resources.pak
+	новый файл:    Postman/app/resources/app/.yarn/install-state.gz
+	новый файл:    Postman/app/resources/app/ExecutionProcess.js
+	новый файл:    Postman/app/resources/app/ProxyNodeProcess.js
+	новый файл:    Postman/app/resources/app/ThreadGroupExecutable.js
+	новый файл:    Postman/app/resources/app/_thread.js
+	новый файл:    Postman/app/resources/app/assets/icon.png
+	новый файл:    Postman/app/resources/app/certificates/cert.pem
+	новый файл:    Postman/app/resources/app/certificates/key.pem
+	новый файл:    Postman/app/resources/app/certificates/proxy.crt
+	новый файл:    Postman/app/resources/app/certificates/proxy.key
+	новый файл:    Postman/app/resources/app/common_channels_LinkableChannel_js-common_services_VaultIntegrationService_js-node_modules_1p-bf54e8-7fb47938d837314e.min.js
+	новый файл:    Postman/app/resources/app/common_services_AppBootListener_js-4f0f8dd76ce8fd62.min.js
+	новый файл:    Postman/app/resources/app/common_services_RuntimeExecutionService_js-node_modules_postman-runtime_lib_sync_recursive_pa-c8e03c-896d58fffb6c2324.min.js
+	новый файл:    Postman/app/resources/app/config.json
+	новый файл:    Postman/app/resources/app/html/auth/auth.html
+	новый файл:    Postman/app/resources/app/html/auth/error.html
+	новый файл:    Postman/app/resources/app/html/console.html
+	новый файл:    Postman/app/resources/app/html/desktop-offline.html
+	новый файл:    Postman/app/resources/app/html/file-migration-firmware.html
+	новый файл:    Postman/app/resources/app/html/loader.html
+	новый файл:    Postman/app/resources/app/html/migration-firmware.html
+	новый файл:    Postman/app/resources/app/html/no-scratchpad.html
+	новый файл:    Postman/app/resources/app/html/proxyAuth.html
+	новый файл:    Postman/app/resources/app/html/requester.html
+	новый файл:    Postman/app/resources/app/html/runner.html
+	новый файл:    Postman/app/resources/app/html/scratchpad.html
+	новый файл:    Postman/app/resources/app/html/shell-migrator.html
+	новый файл:    Postman/app/resources/app/html/tester_sandbox.html
+	новый файл:    Postman/app/resources/app/html/webProxy.html
+	новый файл:    Postman/app/resources/app/js/THEME_AYU_DARK.js
+	новый файл:    Postman/app/resources/app/js/THEME_AYU_LIGHT.js
+	новый файл:    Postman/app/resources/app/js/THEME_DRACULA.js
+	новый файл:    Postman/app/resources/app/js/THEME_HIGH_CONTRAST_DARK.js
+	новый файл:    Postman/app/resources/app/js/THEME_HIGH_CONTRAST_LIGHT.js
+	новый файл:    Postman/app/resources/app/js/THEME_MONOKAI.js
+	новый файл:    Postman/app/resources/app/js/THEME_NIGHT_OWL_DARK.js
+	новый файл:    Postman/app/resources/app/js/THEME_NIGHT_OWL_LIGHT.js
+	новый файл:    Postman/app/resources/app/js/THEME_SOLARIZED_DARK.js
+	новый файл:    Postman/app/resources/app/js/THEME_SOLARIZED_LIGHT.js
+	новый файл:    Postman/app/resources/app/js/authentication.css
+	новый файл:    Postman/app/resources/app/js/authentication.js
+	новый файл:    Postman/app/resources/app/js/authentication.js.LICENSE.txt
+	новый файл:    Postman/app/resources/app/js/desktop-offline.css
+	новый файл:    Postman/app/resources/app/js/desktop-offline.js
+	новый файл:    Postman/app/resources/app/js/desktop-offline.js.LICENSE.txt
+	новый файл:    Postman/app/resources/app/js/desktop-offline/pm-setup.js
+	новый файл:    Postman/app/resources/app/js/editor-afbd84bf87ff32f64c63d43e1a5dde9a-pme_v3.worker.min.js
+	новый файл:    Postman/app/resources/app/js/file-migration-firmware.js
+	новый файл:    Postman/app/resources/app/js/file-migration-firmware.js.LICENSE.txt
+	новый файл:    Postman/app/resources/app/js/file-migration-firmware/pm-setup.js
+	новый файл:    Postman/app/resources/app/js/file-migration-firmware/preload.js
+	новый файл:    Postman/app/resources/app/js/fql-a2e922a73a6cc442460d5f6c3467b2d4-pme_v3.worker.min.js
+	новый файл:    Postman/app/resources/app/js/fql-a2e922a73a6cc442460d5f6c3467b2d4-pme_v3.worker.min.js.LICENSE.txt
+	новый файл:    Postman/app/resources/app/js/html-b4792718433b34f404b1bb49b883d765-pme_v3.worker.min.js
+	новый файл:    Postman/app/resources/app/js/html-b4792718433b34f404b1bb49b883d765-pme_v3.worker.min.js.LICENSE.txt
+	новый файл:    Postman/app/resources/app/js/json-c6b9bb510e2ede3671b6d241627c8227-pme_v3.worker.min.js
+	новый файл:    Postman/app/resources/app/js/json-c6b9bb510e2ede3671b6d241627c8227-pme_v3.worker.min.js.LICENSE.txt
+	новый файл:    Postman/app/resources/app/js/loader.css
+	новый файл:    Postman/app/resources/app/js/loader.js
+	новый файл:    Postman/app/resources/app/js/migration-firmware.js
+	новый файл:    Postman/app/resources/app/js/migration-firmware.js.LICENSE.txt
+	новый файл:    Postman/app/resources/app/js/migration-firmware/pm-setup.js
+	новый файл:    Postman/app/resources/app/js/migration-firmware/preload.js
+	новый файл:    Postman/app/resources/app/js/pdf.worker.min.js
+	новый файл:    Postman/app/resources/app/js/pdf.worker.min.js.LICENSE.txt
+	новый файл:    Postman/app/resources/app/js/postman-json-8d3c60d4ac9be1284909811561f7dcb5-pme_v3.worker.min.js
+	новый файл:    Postman/app/resources/app/js/postman-json-8d3c60d4ac9be1284909811561f7dcb5-pme_v3.worker.min.js.LICENSE.txt
+	новый файл:    Postman/app/resources/app/js/preload.js
+	новый файл:    Postman/app/resources/app/js/proxyAuth.css
+	новый файл:    Postman/app/resources/app/js/proxyAuth.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/34.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/35.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/36.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/37.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/38.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/39.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/40.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/41.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/42.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/43.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/44.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/45.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/46.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/47.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/48.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/49.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/50.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/51.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/52.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/53.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/54.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/54.js.LICENSE.txt
+	новый файл:    Postman/app/resources/app/js/scratchpad/@postman-app/amplitude-scratchpad.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/@postman/dhc-to-postman.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/@postman/har-to-postman.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/@postman/runscope-to-postman.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/@postman/wadl-to-postman.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/@postman/wadl-to-postman.js.LICENSE.txt
+	новый файл:    Postman/app/resources/app/js/scratchpad/@postman/wsdl-to-postman.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/@postman/wsdl-to-postman.js.LICENSE.txt
+	новый файл:    Postman/app/resources/app/js/scratchpad/CollectionSidebar.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/CommonLazyChunk.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/CommonLazyChunk.js.LICENSE.txt
+	новый файл:    Postman/app/resources/app/js/scratchpad/CreateItemView.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/ECItemWorkbench.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/ECItemWorkbench.js.LICENSE.txt
+	новый файл:    Postman/app/resources/app/js/scratchpad/ECWebsocketWorkbench.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/EnvironmentSidebar.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/FindReplace.worker.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/FindReplace.worker.js.LICENSE.txt
+	новый файл:    Postman/app/resources/app/js/scratchpad/HistorySidebarContainer.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/HistorySidebarController.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/RequesterModalContainer.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/StatusBarContainer.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/WorkspaceBrowser.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/a609dc0f334a7d4e64205247c4e8b97c.ttf
+	новый файл:    Postman/app/resources/app/js/scratchpad/components/CodeCBView.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/components/DocumentationContextBarView.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/components/DocumentationContextBarView.js.LICENSE.txt
+	новый файл:    Postman/app/resources/app/js/scratchpad/controllers/CodeCBController.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/controllers/DocumentationContextBarController.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/curl-to-postmanv2.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/draft-js/dist/Draft.css.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/editor-34113e8b1000b9c66ad9b549e0226560-pme_v3.worker.min.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/editor-34113e8b1000b9c66ad9b549e0226560-pme_v3.worker.min.js.LICENSE.txt
+	новый файл:    Postman/app/resources/app/js/scratchpad/graphql-to-postman.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/graphql.worker.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/graphql.worker.js.LICENSE.txt
+	новый файл:    Postman/app/resources/app/js/scratchpad/html-dcc273f81cc91b2389a08375aab2a560-pme_v3.worker.min.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/html-dcc273f81cc91b2389a08375aab2a560-pme_v3.worker.min.js.LICENSE.txt
+	новый файл:    Postman/app/resources/app/js/scratchpad/openapi-to-postmanv2.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/openapi-to-postmanv2.js.LICENSE.txt
+	новый файл:    Postman/app/resources/app/js/scratchpad/postman-code-generators.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/postman-code-generators.js.LICENSE.txt
+	новый файл:    Postman/app/resources/app/js/scratchpad/postman-converters.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/postman-json-6411d0fccd5ca681c6cc8459ec8833a3-pme_v3.worker.min.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/postman-json-6411d0fccd5ca681c6cc8459ec8833a3-pme_v3.worker.min.js.LICENSE.txt
+	новый файл:    Postman/app/resources/app/js/scratchpad/postman-runtime.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/preload.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/raml-to-postman.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/raml-to-postman.js.LICENSE.txt
+	новый файл:    Postman/app/resources/app/js/scratchpad/raml1-to-postman.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/raml1-to-postman.js.LICENSE.txt
+	новый файл:    Postman/app/resources/app/js/scratchpad/requester-legacy.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/scratchpad.css
+	новый файл:    Postman/app/resources/app/js/scratchpad/scratchpad.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/scratchpad.js.LICENSE.txt
+	новый файл:    Postman/app/resources/app/js/scratchpad/src/MimirEditor.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/swagger1-to-postman.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/ts-22ba159adab0f0ee26f0e141bbc34cdc-pme_v3.worker.min.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/ts-22ba159adab0f0ee26f0e141bbc34cdc-pme_v3.worker.min.js.LICENSE.txt
+	новый файл:    Postman/app/resources/app/js/scratchpad/xml-286c27943f4e5470109a560326b5cbe7-pme_v3.worker.min.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/xml-286c27943f4e5470109a560326b5cbe7-pme_v3.worker.min.js.LICENSE.txt
+	новый файл:    Postman/app/resources/app/js/scratchpad/yaml-053bf048d4dd3fa342396c6a24845215-pme_v3.worker.min.js
+	новый файл:    Postman/app/resources/app/js/scratchpad/yaml-053bf048d4dd3fa342396c6a24845215-pme_v3.worker.min.js.LICENSE.txt
+	новый файл:    Postman/app/resources/app/js/shell-migrator.js
+	новый файл:    Postman/app/resources/app/js/tester/Evaluator.js
+	новый файл:    Postman/app/resources/app/js/ts-3bc83d975725d3c3386e4935227e7f59-pme_v3.worker.min.js
+	новый файл:    Postman/app/resources/app/js/visualizer/vendor.min.js
+	новый файл:    Postman/app/resources/app/js/vscode-oniguruma-1_7_0/onig.wasm
+	новый файл:    Postman/app/resources/app/js/webProxy.js
+	новый файл:    Postman/app/resources/app/js/webProxy.js.LICENSE.txt
+	новый файл:    Postman/app/resources/app/js/xml-286c27943f4e5470109a560326b5cbe7-pme_v3.worker.min.js
+	новый файл:    Postman/app/resources/app/js/xml-286c27943f4e5470109a560326b5cbe7-pme_v3.worker.min.js.LICENSE.txt
+	новый файл:    Postman/app/resources/app/js/yaml-ed813aced7c41face7ee04c6f7cb5d67-pme_v3.worker.min.js
+	новый файл:    Postman/app/resources/app/js/yaml-ed813aced7c41face7ee04c6f7cb5d67-pme_v3.worker.min.js.LICENSE.txt
+	новый файл:    Postman/app/resources/app/main.js
+	новый файл:    Postman/app/resources/app/node_modules/@electron/remote/LICENSE
+	новый файл:    Postman/app/resources/app/node_modules/@electron/remote/README.md
+	новый файл:    Postman/app/resources/app/node_modules/@electron/remote/dist/src/common/get-electron-binding.d.ts
+	новый файл:    Postman/app/resources/app/node_modules/@electron/remote/dist/src/common/get-electron-binding.js
+	новый файл:    Postman/app/resources/app/node_modules/@electron/remote/dist/src/common/ipc-messages.d.ts
+	новый файл:    Postman/app/resources/app/node_modules/@electron/remote/dist/src/common/ipc-messages.js
+	новый файл:    Postman/app/resources/app/node_modules/@electron/remote/dist/src/common/module-names.d.ts
+	новый файл:    Postman/app/resources/app/node_modules/@electron/remote/dist/src/common/module-names.js
+	новый файл:    Postman/app/resources/app/node_modules/@electron/remote/dist/src/common/type-utils.d.ts
+	новый файл:    Postman/app/resources/app/node_modules/@electron/remote/dist/src/common/type-utils.js
+	новый файл:    Postman/app/resources/app/node_modules/@electron/remote/dist/src/main/index.d.ts
+	новый файл:    Postman/app/resources/app/node_modules/@electron/remote/dist/src/main/index.js
+	новый файл:    Postman/app/resources/app/node_modules/@electron/remote/dist/src/main/objects-registry.d.ts
+	новый файл:    Postman/app/resources/app/node_modules/@electron/remote/dist/src/main/objects-registry.js
+	новый файл:    Postman/app/resources/app/node_modules/@electron/remote/dist/src/main/server.d.ts
+	новый файл:    Postman/app/resources/app/node_modules/@electron/remote/dist/src/main/server.js
+	новый файл:    Postman/app/resources/app/node_modules/@electron/remote/dist/src/renderer/callbacks-registry.d.ts
+	новый файл:    Postman/app/resources/app/node_modules/@electron/remote/dist/src/renderer/callbacks-registry.js
+	новый файл:    Postman/app/resources/app/node_modules/@electron/remote/dist/src/renderer/index.d.ts
+	новый файл:    Postman/app/resources/app/node_modules/@electron/remote/dist/src/renderer/index.js
+	новый файл:    Postman/app/resources/app/node_modules/@electron/remote/dist/src/renderer/remote.d.ts
+	новый файл:    Postman/app/resources/app/node_modules/@electron/remote/dist/src/renderer/remote.js
+	новый файл:    Postman/app/resources/app/node_modules/@electron/remote/index.d.ts
+	новый файл:    Postman/app/resources/app/node_modules/@electron/remote/main/index.d.ts
+	новый файл:    Postman/app/resources/app/node_modules/@electron/remote/main/index.js
+	новый файл:    Postman/app/resources/app/node_modules/@electron/remote/package.json
+	новый файл:    Postman/app/resources/app/node_modules/@electron/remote/renderer/index.d.ts
+	новый файл:    Postman/app/resources/app/node_modules/@electron/remote/renderer/index.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/_empty.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/_prelude.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/assert.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/browser.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/browser1.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/build/Release/keytar.node
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/constants.json
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/core_bg.wasm
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/duplex.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/empty.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/error_details.proto
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/events.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/exec-child.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/index.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/index1.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/index10.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/index11.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/index12.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/index2.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/index3.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/index4.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/index5.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/index6.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/index7.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/index8.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/index9.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/main.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/passthrough.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/prebuilds/linux-x64/node.napi.node
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/prebuilds/linux-x64/node.napi1.node
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/proto/channelz.proto
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/LICENSE
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/dist/light/protobuf.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/dist/light/protobuf.js.map
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/dist/light/protobuf.min.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/dist/light/protobuf.min.js.map
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/dist/minimal/protobuf.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/dist/minimal/protobuf.js.map
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/dist/minimal/protobuf.min.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/dist/minimal/protobuf.min.js.map
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/dist/protobuf.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/dist/protobuf.js.map
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/dist/protobuf.min.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/dist/protobuf.min.js.map
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/ext/debug/index.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/ext/descriptor/index.d.ts
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/ext/descriptor/index.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/ext/descriptor/test.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/google/LICENSE
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/google/api/annotations.json
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/google/api/annotations.proto
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/google/api/http.json
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/google/api/http.proto
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/google/protobuf/api.json
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/google/protobuf/api.proto
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/google/protobuf/descriptor.json
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/google/protobuf/descriptor.proto
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/google/protobuf/source_context.json
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/google/protobuf/source_context.proto
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/google/protobuf/type.json
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/google/protobuf/type.proto
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/google/rpc/error_details.json
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/google/rpc/error_details.proto
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/google/rpc/status.json
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/google/rpc/status.proto
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/index.d.ts
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/index.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/light.d.ts
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/light.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/minimal.d.ts
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/minimal.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/package.json
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/scripts/postinstall.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/src/common.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/src/converter.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/src/decoder.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/src/encoder.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/src/enum.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/src/field.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/src/index-light.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/src/index-minimal.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/src/index.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/src/mapfield.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/src/message.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/src/method.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/src/namespace.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/src/object.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/src/oneof.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/src/parse.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/src/reader.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/src/reader_buffer.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/src/root.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/src/roots.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/src/rpc.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/src/rpc/service.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/src/service.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/src/tokenize.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/src/type.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/src/types.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/src/typescript.jsdoc
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/src/util.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/src/util/longbits.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/src/util/minimal.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/src/verifier.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/src/wrappers.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/src/writer.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/src/writer_buffer.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/protobufjs/tsconfig.json
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/punycode.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/readable.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/server.key
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/server.pub
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/status.proto
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/string_decoder.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/swap_and_relaunch.sh
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/transform.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/url.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/util.js
+	новый файл:    Postman/app/resources/app/node_modules/native_modules/writable.js
+	новый файл:    Postman/app/resources/app/node_modules_circular-json_build_circular-json_node_js-50cfb098c29ccbc9.min.js
+	новый файл:    Postman/app/resources/app/package.json
+	новый файл:    Postman/app/resources/app/plugins/prepackedPlugins.json
+	новый файл:    Postman/app/resources/app/postman-runtime-89333b75a3dcbd11.min.js
+	новый файл:    Postman/app/resources/app/preload.js
+	новый файл:    Postman/app/resources/app/preload_desktop.js
+	новый файл:    Postman/app/resources/app/runtime_agents_IPCAgent_js-ee4693af8e65a1b2.min.js
+	новый файл:    Postman/app/resources/app/services/crx/fmkadmapgofadopljbjfkapdkoienihi.crx
+	новый файл:    Postman/app/resources/app/services/crx/pfgnfdagidkfgccljigdamigbcnndkod.crx
+	новый файл:    Postman/app/resources/app/services_AppRefreshTokenManager_js-b3ef37c170436e22.min.js
+	новый файл:    Postman/app/resources/app/services_LeaderSelection_js-e566c94242528122.min.js
+	новый файл:    Postman/app/resources/app/services_OAuth2WindowManager_js-2c55950b291a11bb.min.js
+	новый файл:    Postman/app/resources/app/services_TrackManagementService_js-41fdc58d35c15208.min.js
+	новый файл:    Postman/app/resources/app/services_automation-testing_ExecutionSystemManager_js-02fb9f6b5448f984.min.js
+	новый файл:    Postman/app/resources/app/services_automation-testing_utils_promise_js-0fc8a8abc5f17125.min.js
+	новый файл:    Postman/app/resources/app/services_devtoolsInstaller_js-53f039a2bfa4d0fd.min.js
+	новый файл:    Postman/app/resources/app/services_interceptorBridgeInstaller_js-badec058f7696593.min.js
+	новый файл:    Postman/app/resources/app/services_proxyCertificateService_js-bbef803e9d0e5877.min.js
+	новый файл:    Postman/app/resources/app/services_workingDirManager_js-4682304a3eec7713.min.js
+	новый файл:    Postman/app/resources/app/startup.js
+	новый файл:    Postman/app/resources/app/utils_enableTracing_js-38b9759cb8cc306d.min.js
+	новый файл:    Postman/app/resources/app/vendors-node_modules_1password_sdk_dist_sdk_js-node_modules_postman_grpc-js_build_src_index_j-49de12-518cd3cf476cada8.min.js
+	новый файл:    Postman/app/resources/app/vendors-node_modules_ai-sdk_anthropic_dist_index_js-node_modules_ai-sdk_deepseek_dist_index_j-eec320-6a5aebdbf38591da.min.js
+	новый файл:    Postman/app/resources/app/vendors-node_modules_aws-sign2_index_js-node_modules_aws4_aws4_js-node_modules_caseless_index-14de97-14b0e3253654b47e.min.js
+	новый файл:    Postman/app/resources/app/vendors-node_modules_mime-types_index_js-e8c67f0bd6e98e21.min.js
+	новый файл:    Postman/app/resources/app/vendors-node_modules_node-forge_lib_index_js-node_modules_postman_pem_dist_index_js-d16d3ebe74712d67.min.js
+	новый файл:    Postman/app/resources/app/vendors-node_modules_postman-collection_index_js-2d4afdb450ca8b8d.min.js
+	новый файл:    Postman/app/resources/app/vendors-node_modules_postman_runtime_runtime-rpc-electron_dist_index_js-node_modules_postman_-dc9a61-5c4a0e3f1dd13eb3.min.js
+	новый файл:    Postman/app/resources/app/vendors-node_modules_request_index_js-0784c2c06c238767.min.js
+	новый файл:    Postman/app/resources/app/vendors-node_modules_semver_semver_js-ec06222d20c286d6.min.js
+	новый файл:    Postman/app/resources/app/vendors-node_modules_shell-env_index_js-92f0719039ba676c.min.js
+	новый файл:    Postman/app/resources/app/vendors-node_modules_systeminformation_lib_index_js-a4e76ab59597226b.min.js
+	новый файл:    Postman/app/resources/app/vendors-node_modules_unzip-crx-3_dist_index_js-b284360cad0d5ffd.min.js
+	новый файл:    Postman/app/resources/app/yarn.lock
+	новый файл:    Postman/app/resources/profile.json
+	новый файл:    Postman/app/snapshot_blob.bin
+	новый файл:    Postman/app/v8_context_snapshot.bin
+	новый файл:    Postman/app/vk_swiftshader_icd.json
+	новый файл:    Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg
+	новый файл:    Telegram/Telegram
+	новый файл:    Telegram/Updater
+	новый файл:    VSCodeUserSetup-x64-1.100.3.exe
+	новый файл:    VSCodeUserSetup-x64-1.101.2.exe
+	новый файл:    assets/IMAGE.svg
+	новый файл:    assets/search.svg
+	новый файл:    assets/wagen.svg
+	новый файл:    code_1.100.2-1747260578_amd64.deb
+	новый файл:    code_1.102.0-1752099874_amd64.deb
+	новый файл:    fonts/jost/COPYRIGHT.txt
+	новый файл:    fonts/jost/Jost-Italic.ttf
+	новый файл:    fonts/jost/Jost.ttf
+	новый файл:    fonts/jost/LICENSE.txt
+	новый файл:    fonts/jost/README.txt
+	изменено:      index.css
+	изменено:      index.html
+	новый файл:    ktalk3.1.0amd64(1).deb
+	новый файл:    ktalk3.1.0amd64.deb
+	новый файл:    ktalk3.1.0x86_64(1).AppImage
+	новый файл:    ktalk3.1.0x86_64.AppImage
+	новый файл:    ktalk3.JmbqWHoW.1.0amd64.deb.part
+	новый файл:    onlyoffice-desktopeditors_amd64.deb
+	новый файл:    opera-stable_119.0.5497.70_amd64.deb
+	новый файл:    ventoy-1.1.05-linux.tar.gz
+	новый файл:    ventoy-1.1.05/CreatePersistentImg.sh
+	новый файл:    ventoy-1.1.05/ExtendPersistentImg.sh
+	новый файл:    ventoy-1.1.05/README
+	новый файл:    ventoy-1.1.05/Ventoy2Disk.sh
+	новый файл:    ventoy-1.1.05/VentoyGUI.aarch64
+	новый файл:    ventoy-1.1.05/VentoyGUI.i386
+	новый файл:    ventoy-1.1.05/VentoyGUI.mips64el
+	новый файл:    ventoy-1.1.05/VentoyGUI.x86_64
+	новый файл:    ventoy-1.1.05/VentoyPlugson.sh
+	новый файл:    ventoy-1.1.05/VentoyVlnk.sh
+	новый файл:    ventoy-1.1.05/VentoyWeb.sh
+	новый файл:    ventoy-1.1.05/WebUI/favicon.ico
+	новый файл:    ventoy-1.1.05/WebUI/index.html
+	новый файл:    ventoy-1.1.05/WebUI/static/AdminLTE/css/AdminLTE.min.css
+	новый файл:    ventoy-1.1.05/WebUI/static/AdminLTE/css/skins/skin-blue.min.css
+	новый файл:    ventoy-1.1.05/WebUI/static/AdminLTE/js/app.min.js
+	новый файл:    ventoy-1.1.05/WebUI/static/bootstrap/css/bootstrap-theme.min.css
+	новый файл:    ventoy-1.1.05/WebUI/static/bootstrap/css/bootstrap.min.css
+	новый файл:    ventoy-1.1.05/WebUI/static/bootstrap/fonts/glyphicons-halflings-regular.eot
+	новый файл:    ventoy-1.1.05/WebUI/static/bootstrap/fonts/glyphicons-halflings-regular.svg
+	новый файл:    ventoy-1.1.05/WebUI/static/bootstrap/fonts/glyphicons-halflings-regular.ttf
+	новый файл:    ventoy-1.1.05/WebUI/static/bootstrap/fonts/glyphicons-halflings-regular.woff
+	новый файл:    ventoy-1.1.05/WebUI/static/bootstrap/fonts/glyphicons-halflings-regular.woff2
+	новый файл:    ventoy-1.1.05/WebUI/static/bootstrap/js/bootstrap.min.js
+	новый файл:    ventoy-1.1.05/WebUI/static/css/font-awesome.min.css
+	новый файл:    ventoy-1.1.05/WebUI/static/css/ionicons.min.css
+	новый файл:    ventoy-1.1.05/WebUI/static/css/vtoy.css
+	новый файл:    ventoy-1.1.05/WebUI/static/fonts/fontawesome-webfont.ttf
+	новый файл:    ventoy-1.1.05/WebUI/static/fonts/fontawesome-webfont.woff
+	новый файл:    ventoy-1.1.05/WebUI/static/fonts/fontawesome-webfont.woff2
+	новый файл:    ventoy-1.1.05/WebUI/static/fonts/glyphicons-halflings-regular.ttf
+	новый файл:    ventoy-1.1.05/WebUI/static/fonts/glyphicons-halflings-regular.woff
+	новый файл:    ventoy-1.1.05/WebUI/static/fonts/glyphicons-halflings-regular.woff2
+	новый файл:    ventoy-1.1.05/WebUI/static/fonts/ionicons.eot
+	новый файл:    ventoy-1.1.05/WebUI/static/fonts/ionicons.ttf
+	новый файл:    ventoy-1.1.05/WebUI/static/img/VentoyLogo.png
+	новый файл:    ventoy-1.1.05/WebUI/static/img/dropdown.png
+	новый файл:    ventoy-1.1.05/WebUI/static/img/refresh.ico
+	новый файл:    ventoy-1.1.05/WebUI/static/js/jQuery-2.1.4.min.js
+	новый файл:    ventoy-1.1.05/WebUI/static/js/jquery.validate.min.js
+	новый файл:    ventoy-1.1.05/WebUI/static/js/jquery.vtoy.alert.js
+	новый файл:    ventoy-1.1.05/WebUI/static/js/languages.js
+	новый файл:    ventoy-1.1.05/WebUI/static/js/vtoy.js
+	новый файл:    ventoy-1.1.05/boot/boot.img
+	новый файл:    ventoy-1.1.05/boot/core.img.xz
+	новый файл:    ventoy-1.1.05/log.txt
+	новый файл:    ventoy-1.1.05/plugin/ventoy/theme/background.png
+	новый файл:    ventoy-1.1.05/plugin/ventoy/theme/icons/deepin.png
+	новый файл:    ventoy-1.1.05/plugin/ventoy/theme/icons/red-hat.png
+	новый файл:    ventoy-1.1.05/plugin/ventoy/theme/icons/ubuntu.png
+	новый файл:    ventoy-1.1.05/plugin/ventoy/theme/icons/vtoyiso.png
+	новый файл:    ventoy-1.1.05/plugin/ventoy/theme/menu_c.png
+	новый файл:    ventoy-1.1.05/plugin/ventoy/theme/menu_e.png
+	новый файл:    ventoy-1.1.05/plugin/ventoy/theme/menu_n.png
+	новый файл:    ventoy-1.1.05/plugin/ventoy/theme/menu_ne.png
+	новый файл:    ventoy-1.1.05/plugin/ventoy/theme/menu_nw.png
+	новый файл:    ventoy-1.1.05/plugin/ventoy/theme/menu_s.png
+	новый файл:    ventoy-1.1.05/plugin/ventoy/theme/menu_se.png
+	новый файл:    ventoy-1.1.05/plugin/ventoy/theme/menu_sw.png
+	новый файл:    ventoy-1.1.05/plugin/ventoy/theme/menu_w.png
+	новый файл:    ventoy-1.1.05/plugin/ventoy/theme/select_c.png
+	новый файл:    ventoy-1.1.05/plugin/ventoy/theme/slider_c.png
+	новый файл:    ventoy-1.1.05/plugin/ventoy/theme/slider_n.png
+	новый файл:    ventoy-1.1.05/plugin/ventoy/theme/slider_s.png
+	новый файл:    ventoy-1.1.05/plugin/ventoy/theme/terminal_box_c.png
+	новый файл:    ventoy-1.1.05/plugin/ventoy/theme/terminal_box_e.png
+	новый файл:    ventoy-1.1.05/plugin/ventoy/theme/terminal_box_n.png
+	новый файл:    ventoy-1.1.05/plugin/ventoy/theme/terminal_box_ne.png
+	новый файл:    ventoy-1.1.05/plugin/ventoy/theme/terminal_box_nw.png
+	новый файл:    ventoy-1.1.05/plugin/ventoy/theme/terminal_box_s.png
+	новый файл:    ventoy-1.1.05/plugin/ventoy/theme/terminal_box_se.png
+	новый файл:    ventoy-1.1.05/plugin/ventoy/theme/terminal_box_sw.png
+	новый файл:    ventoy-1.1.05/plugin/ventoy/theme/terminal_box_w.png
+	новый файл:    ventoy-1.1.05/plugin/ventoy/theme/theme.txt
+	новый файл:    ventoy-1.1.05/plugin/ventoy/ventoy.json
+	новый файл:    ventoy-1.1.05/plugin/ventoy/ventoy_grub.cfg
+	новый файл:    ventoy-1.1.05/tool/ENROLL_THIS_KEY_IN_MOKMANAGER.cer
+	новый файл:    ventoy-1.1.05/tool/VentoyGTK.glade
+	новый файл:    ventoy-1.1.05/tool/VentoyWorker.sh
+	новый файл:    ventoy-1.1.05/tool/aarch64/Plugson.xz
+	новый файл:    ventoy-1.1.05/tool/aarch64/V2DServer.xz
+	новый файл:    ventoy-1.1.05/tool/aarch64/Ventoy2Disk.gtk3
+	новый файл:    ventoy-1.1.05/tool/aarch64/Ventoy2Disk.qt5
+	новый файл:    ventoy-1.1.05/tool/aarch64/ash.xz
+	новый файл:    ventoy-1.1.05/tool/aarch64/hexdump.xz
+	новый файл:    ventoy-1.1.05/tool/aarch64/mkexfatfs.xz
+	новый файл:    ventoy-1.1.05/tool/aarch64/mount.exfat-fuse.xz
+	новый файл:    ventoy-1.1.05/tool/aarch64/vlnk.xz
+	новый файл:    ventoy-1.1.05/tool/aarch64/vtoycli.xz
+	новый файл:    ventoy-1.1.05/tool/aarch64/vtoygpt.xz
+	новый файл:    ventoy-1.1.05/tool/aarch64/xzcat
+	новый файл:    ventoy-1.1.05/tool/distro_gui_type.json
+	новый файл:    ventoy-1.1.05/tool/i386/Plugson.xz
+	новый файл:    ventoy-1.1.05/tool/i386/V2DServer.xz
+	новый файл:    ventoy-1.1.05/tool/i386/Ventoy2Disk.gtk2
+	новый файл:    ventoy-1.1.05/tool/i386/Ventoy2Disk.gtk3
+	новый файл:    ventoy-1.1.05/tool/i386/Ventoy2Disk.qt5
+	новый файл:    ventoy-1.1.05/tool/i386/ash.xz
+	новый файл:    ventoy-1.1.05/tool/i386/hexdump.xz
+	новый файл:    ventoy-1.1.05/tool/i386/mkexfatfs.xz
+	новый файл:    ventoy-1.1.05/tool/i386/mount.exfat-fuse.xz
+	новый файл:    ventoy-1.1.05/tool/i386/vlnk.xz
+	новый файл:    ventoy-1.1.05/tool/i386/vtoycli.xz
+	новый файл:    ventoy-1.1.05/tool/i386/vtoygpt.xz
+	новый файл:    ventoy-1.1.05/tool/i386/xzcat
+	новый файл:    ventoy-1.1.05/tool/languages.json
+	новый файл:    ventoy-1.1.05/tool/mips64el/Plugson.xz
+	новый файл:    ventoy-1.1.05/tool/mips64el/V2DServer.xz
+	новый файл:    ventoy-1.1.05/tool/mips64el/Ventoy2Disk.gtk3
+	новый файл:    ventoy-1.1.05/tool/mips64el/Ventoy2Disk.qt5
+	новый файл:    ventoy-1.1.05/tool/mips64el/ash.xz
+	новый файл:    ventoy-1.1.05/tool/mips64el/hexdump.xz
+	новый файл:    ventoy-1.1.05/tool/mips64el/mkexfatfs.xz
+	новый файл:    ventoy-1.1.05/tool/mips64el/mount.exfat-fuse.xz
+	новый файл:    ventoy-1.1.05/tool/mips64el/vlnk.xz
+	новый файл:    ventoy-1.1.05/tool/mips64el/vtoycli.xz
+	новый файл:    ventoy-1.1.05/tool/mips64el/vtoygpt.xz
+	новый файл:    ventoy-1.1.05/tool/mips64el/xzcat
+	новый файл:    ventoy-1.1.05/tool/plugson.tar.xz
+	новый файл:    ventoy-1.1.05/tool/ventoy_lib.sh
+	новый файл:    ventoy-1.1.05/tool/x86_64/Plugson
+	новый файл:    ventoy-1.1.05/tool/x86_64/V2DServer
+	новый файл:    ventoy-1.1.05/tool/x86_64/Ventoy2Disk.gtk2
+	новый файл:    ventoy-1.1.05/tool/x86_64/Ventoy2Disk.gtk3
+	новый файл:    ventoy-1.1.05/tool/x86_64/Ventoy2Disk.qt5
+	новый файл:    ventoy-1.1.05/tool/x86_64/ash
+	новый файл:    ventoy-1.1.05/tool/x86_64/hexdump
+	новый файл:    ventoy-1.1.05/tool/x86_64/log.txt
+	новый файл:    ventoy-1.1.05/tool/x86_64/mkexfatfs
+	новый файл:    ventoy-1.1.05/tool/x86_64/mount.exfat-fuse
+	новый файл:    ventoy-1.1.05/tool/x86_64/vlnk
+	новый файл:    ventoy-1.1.05/tool/x86_64/vtoycli
+	новый файл:    ventoy-1.1.05/tool/x86_64/vtoygpt
+	новый файл:    ventoy-1.1.05/tool/x86_64/xzcat
+	новый файл:    ventoy-1.1.05/ventoy/ventoy.disk.img.xz
+	новый файл:    ventoy-1.1.05/ventoy/ventoy_4k.disk.img.xz
+	новый файл:    ventoy-1.1.05/ventoy/version
+	новый файл:    "\320\237\321\200\320\276\321\210\320\273\320\270.pdf"
+
+Изменения, которые не в индексе для коммита:
+  (используйте «git add/rm <файл>...», чтобы добавить или удалить файл из индекса)
+  (используйте «git restore <файл>...», чтобы отменить изменения в рабочем каталоге)
+	удалено:       7j1E4N_d.html
+	удалено:       Cursor-1.1.3-x86_64.AppImage
+	удалено:       GIMP-3.0.4-x86_64.AppImage
+	удалено:       Insomnia.Core-11.1.0.deb
+	удалено:       MullvadVPN-2025.5_amd64(2).deb
+	удалено:       OneFileLinux.efi
+	удалено:       Postman/Postman
+	удалено:       Postman/app/Postman
+	удалено:       Postman/app/chrome-sandbox
+	удалено:       Postman/app/chrome_100_percent.pak
+	удалено:       Postman/app/chrome_200_percent.pak
+	удалено:       Postman/app/chrome_crashpad_handler
+	удалено:       Postman/app/icons/icon_128x128.png
+	удалено:       Postman/app/icudtl.dat
+	удалено:       Postman/app/libEGL.so
+	удалено:       Postman/app/libGLESv2.so
+	удалено:       Postman/app/libffmpeg.so
+	удалено:       Postman/app/libvk_swiftshader.so
+	удалено:       Postman/app/libvulkan.so.1
+	удалено:       Postman/app/locales/af.pak
+	удалено:       Postman/app/locales/am.pak
+	удалено:       Postman/app/locales/ar.pak
+	удалено:       Postman/app/locales/bg.pak
+	удалено:       Postman/app/locales/bn.pak
+	удалено:       Postman/app/locales/ca.pak
+	удалено:       Postman/app/locales/cs.pak
+	удалено:       Postman/app/locales/da.pak
+	удалено:       Postman/app/locales/de.pak
+	удалено:       Postman/app/locales/el.pak
+	удалено:       Postman/app/locales/en-GB.pak
+	удалено:       Postman/app/locales/en-US.pak
+	удалено:       Postman/app/locales/es-419.pak
+	удалено:       Postman/app/locales/es.pak
+	удалено:       Postman/app/locales/et.pak
+	удалено:       Postman/app/locales/fa.pak
+	удалено:       Postman/app/locales/fi.pak
+	удалено:       Postman/app/locales/fil.pak
+	удалено:       Postman/app/locales/fr.pak
+	удалено:       Postman/app/locales/gu.pak
+	удалено:       Postman/app/locales/he.pak
+	удалено:       Postman/app/locales/hi.pak
+	удалено:       Postman/app/locales/hr.pak
+	удалено:       Postman/app/locales/hu.pak
+	удалено:       Postman/app/locales/id.pak
+	удалено:       Postman/app/locales/it.pak
+	удалено:       Postman/app/locales/ja.pak
+	удалено:       Postman/app/locales/kn.pak
+	удалено:       Postman/app/locales/ko.pak
+	удалено:       Postman/app/locales/lt.pak
+	удалено:       Postman/app/locales/lv.pak
+	удалено:       Postman/app/locales/ml.pak
+	удалено:       Postman/app/locales/mr.pak
+	удалено:       Postman/app/locales/ms.pak
+	удалено:       Postman/app/locales/nb.pak
+	удалено:       Postman/app/locales/nl.pak
+	удалено:       Postman/app/locales/pl.pak
+	удалено:       Postman/app/locales/pt-BR.pak
+	удалено:       Postman/app/locales/pt-PT.pak
+	удалено:       Postman/app/locales/ro.pak
+	удалено:       Postman/app/locales/ru.pak
+	удалено:       Postman/app/locales/sk.pak
+	удалено:       Postman/app/locales/sl.pak
+	удалено:       Postman/app/locales/sr.pak
+	удалено:       Postman/app/locales/sv.pak
+	удалено:       Postman/app/locales/sw.pak
+	удалено:       Postman/app/locales/ta.pak
+	удалено:       Postman/app/locales/te.pak
+	удалено:       Postman/app/locales/th.pak
+	удалено:       Postman/app/locales/tr.pak
+	удалено:       Postman/app/locales/uk.pak
+	удалено:       Postman/app/locales/ur.pak
+	удалено:       Postman/app/locales/vi.pak
+	удалено:       Postman/app/locales/zh-CN.pak
+	удалено:       Postman/app/locales/zh-TW.pak
+	удалено:       Postman/app/postman
+	удалено:       Postman/app/resources.pak
+	удалено:       Postman/app/resources/app/.yarn/install-state.gz
+	удалено:       Postman/app/resources/app/ExecutionProcess.js
+	удалено:       Postman/app/resources/app/ProxyNodeProcess.js
+	удалено:       Postman/app/resources/app/ThreadGroupExecutable.js
+	удалено:       Postman/app/resources/app/_thread.js
+	удалено:       Postman/app/resources/app/assets/icon.png
+	удалено:       Postman/app/resources/app/certificates/cert.pem
+	удалено:       Postman/app/resources/app/certificates/key.pem
+	удалено:       Postman/app/resources/app/certificates/proxy.crt
+	удалено:       Postman/app/resources/app/certificates/proxy.key
+	удалено:       Postman/app/resources/app/common_channels_LinkableChannel_js-common_services_VaultIntegrationService_js-node_modules_1p-bf54e8-7fb47938d837314e.min.js
+	удалено:       Postman/app/resources/app/common_services_AppBootListener_js-4f0f8dd76ce8fd62.min.js
+	удалено:       Postman/app/resources/app/common_services_RuntimeExecutionService_js-node_modules_postman-runtime_lib_sync_recursive_pa-c8e03c-896d58fffb6c2324.min.js
+	удалено:       Postman/app/resources/app/config.json
+	удалено:       Postman/app/resources/app/html/auth/auth.html
+	удалено:       Postman/app/resources/app/html/auth/error.html
+	удалено:       Postman/app/resources/app/html/console.html
+	удалено:       Postman/app/resources/app/html/desktop-offline.html
+	удалено:       Postman/app/resources/app/html/file-migration-firmware.html
+	удалено:       Postman/app/resources/app/html/loader.html
+	удалено:       Postman/app/resources/app/html/migration-firmware.html
+	удалено:       Postman/app/resources/app/html/no-scratchpad.html
+	удалено:       Postman/app/resources/app/html/proxyAuth.html
+	удалено:       Postman/app/resources/app/html/requester.html
+	удалено:       Postman/app/resources/app/html/runner.html
+	удалено:       Postman/app/resources/app/html/scratchpad.html
+	удалено:       Postman/app/resources/app/html/shell-migrator.html
+	удалено:       Postman/app/resources/app/html/tester_sandbox.html
+	удалено:       Postman/app/resources/app/html/webProxy.html
+	удалено:       Postman/app/resources/app/js/THEME_AYU_DARK.js
+	удалено:       Postman/app/resources/app/js/THEME_AYU_LIGHT.js
+	удалено:       Postman/app/resources/app/js/THEME_DRACULA.js
+	удалено:       Postman/app/resources/app/js/THEME_HIGH_CONTRAST_DARK.js
+	удалено:       Postman/app/resources/app/js/THEME_HIGH_CONTRAST_LIGHT.js
+	удалено:       Postman/app/resources/app/js/THEME_MONOKAI.js
+	удалено:       Postman/app/resources/app/js/THEME_NIGHT_OWL_DARK.js
+	удалено:       Postman/app/resources/app/js/THEME_NIGHT_OWL_LIGHT.js
+	удалено:       Postman/app/resources/app/js/THEME_SOLARIZED_DARK.js
+	удалено:       Postman/app/resources/app/js/THEME_SOLARIZED_LIGHT.js
+	удалено:       Postman/app/resources/app/js/authentication.css
+	удалено:       Postman/app/resources/app/js/authentication.js
+	удалено:       Postman/app/resources/app/js/authentication.js.LICENSE.txt
+	удалено:       Postman/app/resources/app/js/desktop-offline.css
+	удалено:       Postman/app/resources/app/js/desktop-offline.js
+	удалено:       Postman/app/resources/app/js/desktop-offline.js.LICENSE.txt
+	удалено:       Postman/app/resources/app/js/desktop-offline/pm-setup.js
+	удалено:       Postman/app/resources/app/js/editor-afbd84bf87ff32f64c63d43e1a5dde9a-pme_v3.worker.min.js
+	удалено:       Postman/app/resources/app/js/file-migration-firmware.js
+	удалено:       Postman/app/resources/app/js/file-migration-firmware.js.LICENSE.txt
+	удалено:       Postman/app/resources/app/js/file-migration-firmware/pm-setup.js
+	удалено:       Postman/app/resources/app/js/file-migration-firmware/preload.js
+	удалено:       Postman/app/resources/app/js/fql-a2e922a73a6cc442460d5f6c3467b2d4-pme_v3.worker.min.js
+	удалено:       Postman/app/resources/app/js/fql-a2e922a73a6cc442460d5f6c3467b2d4-pme_v3.worker.min.js.LICENSE.txt
+	удалено:       Postman/app/resources/app/js/html-b4792718433b34f404b1bb49b883d765-pme_v3.worker.min.js
+	удалено:       Postman/app/resources/app/js/html-b4792718433b34f404b1bb49b883d765-pme_v3.worker.min.js.LICENSE.txt
+	удалено:       Postman/app/resources/app/js/json-c6b9bb510e2ede3671b6d241627c8227-pme_v3.worker.min.js
+	удалено:       Postman/app/resources/app/js/json-c6b9bb510e2ede3671b6d241627c8227-pme_v3.worker.min.js.LICENSE.txt
+	удалено:       Postman/app/resources/app/js/loader.css
+	удалено:       Postman/app/resources/app/js/loader.js
+	удалено:       Postman/app/resources/app/js/migration-firmware.js
+	удалено:       Postman/app/resources/app/js/migration-firmware.js.LICENSE.txt
+	удалено:       Postman/app/resources/app/js/migration-firmware/pm-setup.js
+	удалено:       Postman/app/resources/app/js/migration-firmware/preload.js
+	удалено:       Postman/app/resources/app/js/pdf.worker.min.js
+	удалено:       Postman/app/resources/app/js/pdf.worker.min.js.LICENSE.txt
+	удалено:       Postman/app/resources/app/js/postman-json-8d3c60d4ac9be1284909811561f7dcb5-pme_v3.worker.min.js
+	удалено:       Postman/app/resources/app/js/postman-json-8d3c60d4ac9be1284909811561f7dcb5-pme_v3.worker.min.js.LICENSE.txt
+	удалено:       Postman/app/resources/app/js/preload.js
+	удалено:       Postman/app/resources/app/js/proxyAuth.css
+	удалено:       Postman/app/resources/app/js/proxyAuth.js
+	удалено:       Postman/app/resources/app/js/scratchpad/34.js
+	удалено:       Postman/app/resources/app/js/scratchpad/35.js
+	удалено:       Postman/app/resources/app/js/scratchpad/36.js
+	удалено:       Postman/app/resources/app/js/scratchpad/37.js
+	удалено:       Postman/app/resources/app/js/scratchpad/38.js
+	удалено:       Postman/app/resources/app/js/scratchpad/39.js
+	удалено:       Postman/app/resources/app/js/scratchpad/40.js
+	удалено:       Postman/app/resources/app/js/scratchpad/41.js
+	удалено:       Postman/app/resources/app/js/scratchpad/42.js
+	удалено:       Postman/app/resources/app/js/scratchpad/43.js
+	удалено:       Postman/app/resources/app/js/scratchpad/44.js
+	удалено:       Postman/app/resources/app/js/scratchpad/45.js
+	удалено:       Postman/app/resources/app/js/scratchpad/46.js
+	удалено:       Postman/app/resources/app/js/scratchpad/47.js
+	удалено:       Postman/app/resources/app/js/scratchpad/48.js
+	удалено:       Postman/app/resources/app/js/scratchpad/49.js
+	удалено:       Postman/app/resources/app/js/scratchpad/50.js
+	удалено:       Postman/app/resources/app/js/scratchpad/51.js
+	удалено:       Postman/app/resources/app/js/scratchpad/52.js
+	удалено:       Postman/app/resources/app/js/scratchpad/53.js
+	удалено:       Postman/app/resources/app/js/scratchpad/54.js
+	удалено:       Postman/app/resources/app/js/scratchpad/54.js.LICENSE.txt
+	удалено:       Postman/app/resources/app/js/scratchpad/@postman-app/amplitude-scratchpad.js
+	удалено:       Postman/app/resources/app/js/scratchpad/@postman/dhc-to-postman.js
+	удалено:       Postman/app/resources/app/js/scratchpad/@postman/har-to-postman.js
+	удалено:       Postman/app/resources/app/js/scratchpad/@postman/runscope-to-postman.js
+	удалено:       Postman/app/resources/app/js/scratchpad/@postman/wadl-to-postman.js
+	удалено:       Postman/app/resources/app/js/scratchpad/@postman/wadl-to-postman.js.LICENSE.txt
+	удалено:       Postman/app/resources/app/js/scratchpad/@postman/wsdl-to-postman.js
+	удалено:       Postman/app/resources/app/js/scratchpad/@postman/wsdl-to-postman.js.LICENSE.txt
+	удалено:       Postman/app/resources/app/js/scratchpad/CollectionSidebar.js
+	удалено:       Postman/app/resources/app/js/scratchpad/CommonLazyChunk.js
+	удалено:       Postman/app/resources/app/js/scratchpad/CommonLazyChunk.js.LICENSE.txt
+	удалено:       Postman/app/resources/app/js/scratchpad/CreateItemView.js
+	удалено:       Postman/app/resources/app/js/scratchpad/ECItemWorkbench.js
+	удалено:       Postman/app/resources/app/js/scratchpad/ECItemWorkbench.js.LICENSE.txt
+	удалено:       Postman/app/resources/app/js/scratchpad/ECWebsocketWorkbench.js
+	удалено:       Postman/app/resources/app/js/scratchpad/EnvironmentSidebar.js
+	удалено:       Postman/app/resources/app/js/scratchpad/FindReplace.worker.js
+	удалено:       Postman/app/resources/app/js/scratchpad/FindReplace.worker.js.LICENSE.txt
+	удалено:       Postman/app/resources/app/js/scratchpad/HistorySidebarContainer.js
+	удалено:       Postman/app/resources/app/js/scratchpad/HistorySidebarController.js
+	удалено:       Postman/app/resources/app/js/scratchpad/RequesterModalContainer.js
+	удалено:       Postman/app/resources/app/js/scratchpad/StatusBarContainer.js
+	удалено:       Postman/app/resources/app/js/scratchpad/WorkspaceBrowser.js
+	удалено:       Postman/app/resources/app/js/scratchpad/a609dc0f334a7d4e64205247c4e8b97c.ttf
+	удалено:       Postman/app/resources/app/js/scratchpad/components/CodeCBView.js
+	удалено:       Postman/app/resources/app/js/scratchpad/components/DocumentationContextBarView.js
+	удалено:       Postman/app/resources/app/js/scratchpad/components/DocumentationContextBarView.js.LICENSE.txt
+	удалено:       Postman/app/resources/app/js/scratchpad/controllers/CodeCBController.js
+	удалено:       Postman/app/resources/app/js/scratchpad/controllers/DocumentationContextBarController.js
+	удалено:       Postman/app/resources/app/js/scratchpad/curl-to-postmanv2.js
+	удалено:       Postman/app/resources/app/js/scratchpad/draft-js/dist/Draft.css.js
+	удалено:       Postman/app/resources/app/js/scratchpad/editor-34113e8b1000b9c66ad9b549e0226560-pme_v3.worker.min.js
+	удалено:       Postman/app/resources/app/js/scratchpad/editor-34113e8b1000b9c66ad9b549e0226560-pme_v3.worker.min.js.LICENSE.txt
+	удалено:       Postman/app/resources/app/js/scratchpad/graphql-to-postman.js
+	удалено:       Postman/app/resources/app/js/scratchpad/graphql.worker.js
+	удалено:       Postman/app/resources/app/js/scratchpad/graphql.worker.js.LICENSE.txt
+	удалено:       Postman/app/resources/app/js/scratchpad/html-dcc273f81cc91b2389a08375aab2a560-pme_v3.worker.min.js
+	удалено:       Postman/app/resources/app/js/scratchpad/html-dcc273f81cc91b2389a08375aab2a560-pme_v3.worker.min.js.LICENSE.txt
+	удалено:       Postman/app/resources/app/js/scratchpad/openapi-to-postmanv2.js
+	удалено:       Postman/app/resources/app/js/scratchpad/openapi-to-postmanv2.js.LICENSE.txt
+	удалено:       Postman/app/resources/app/js/scratchpad/postman-code-generators.js
+	удалено:       Postman/app/resources/app/js/scratchpad/postman-code-generators.js.LICENSE.txt
+	удалено:       Postman/app/resources/app/js/scratchpad/postman-converters.js
+	удалено:       Postman/app/resources/app/js/scratchpad/postman-json-6411d0fccd5ca681c6cc8459ec8833a3-pme_v3.worker.min.js
+	удалено:       Postman/app/resources/app/js/scratchpad/postman-json-6411d0fccd5ca681c6cc8459ec8833a3-pme_v3.worker.min.js.LICENSE.txt
+	удалено:       Postman/app/resources/app/js/scratchpad/postman-runtime.js
+	удалено:       Postman/app/resources/app/js/scratchpad/preload.js
+	удалено:       Postman/app/resources/app/js/scratchpad/raml-to-postman.js
+	удалено:       Postman/app/resources/app/js/scratchpad/raml-to-postman.js.LICENSE.txt
+	удалено:       Postman/app/resources/app/js/scratchpad/raml1-to-postman.js
+	удалено:       Postman/app/resources/app/js/scratchpad/raml1-to-postman.js.LICENSE.txt
+	удалено:       Postman/app/resources/app/js/scratchpad/requester-legacy.js
+	удалено:       Postman/app/resources/app/js/scratchpad/scratchpad.css
+	удалено:       Postman/app/resources/app/js/scratchpad/scratchpad.js
+	удалено:       Postman/app/resources/app/js/scratchpad/scratchpad.js.LICENSE.txt
+	удалено:       Postman/app/resources/app/js/scratchpad/src/MimirEditor.js
+	удалено:       Postman/app/resources/app/js/scratchpad/swagger1-to-postman.js
+	удалено:       Postman/app/resources/app/js/scratchpad/ts-22ba159adab0f0ee26f0e141bbc34cdc-pme_v3.worker.min.js
+	удалено:       Postman/app/resources/app/js/scratchpad/ts-22ba159adab0f0ee26f0e141bbc34cdc-pme_v3.worker.min.js.LICENSE.txt
+	удалено:       Postman/app/resources/app/js/scratchpad/xml-286c27943f4e5470109a560326b5cbe7-pme_v3.worker.min.js
+	удалено:       Postman/app/resources/app/js/scratchpad/xml-286c27943f4e5470109a560326b5cbe7-pme_v3.worker.min.js.LICENSE.txt
+	удалено:       Postman/app/resources/app/js/scratchpad/yaml-053bf048d4dd3fa342396c6a24845215-pme_v3.worker.min.js
+	удалено:       Postman/app/resources/app/js/scratchpad/yaml-053bf048d4dd3fa342396c6a24845215-pme_v3.worker.min.js.LICENSE.txt
+	удалено:       Postman/app/resources/app/js/shell-migrator.js
+	удалено:       Postman/app/resources/app/js/tester/Evaluator.js
+	удалено:       Postman/app/resources/app/js/ts-3bc83d975725d3c3386e4935227e7f59-pme_v3.worker.min.js
+	удалено:       Postman/app/resources/app/js/visualizer/vendor.min.js
+	удалено:       Postman/app/resources/app/js/vscode-oniguruma-1_7_0/onig.wasm
+	удалено:       Postman/app/resources/app/js/webProxy.js
+	удалено:       Postman/app/resources/app/js/webProxy.js.LICENSE.txt
+	удалено:       Postman/app/resources/app/js/xml-286c27943f4e5470109a560326b5cbe7-pme_v3.worker.min.js
+	удалено:       Postman/app/resources/app/js/xml-286c27943f4e5470109a560326b5cbe7-pme_v3.worker.min.js.LICENSE.txt
+	удалено:       Postman/app/resources/app/js/yaml-ed813aced7c41face7ee04c6f7cb5d67-pme_v3.worker.min.js
+	удалено:       Postman/app/resources/app/js/yaml-ed813aced7c41face7ee04c6f7cb5d67-pme_v3.worker.min.js.LICENSE.txt
+	удалено:       Postman/app/resources/app/main.js
+	удалено:       Postman/app/resources/app/node_modules/@electron/remote/LICENSE
+	удалено:       Postman/app/resources/app/node_modules/@electron/remote/README.md
+	удалено:       Postman/app/resources/app/node_modules/@electron/remote/dist/src/common/get-electron-binding.d.ts
+	удалено:       Postman/app/resources/app/node_modules/@electron/remote/dist/src/common/get-electron-binding.js
+	удалено:       Postman/app/resources/app/node_modules/@electron/remote/dist/src/common/ipc-messages.d.ts
+	удалено:       Postman/app/resources/app/node_modules/@electron/remote/dist/src/common/ipc-messages.js
+	удалено:       Postman/app/resources/app/node_modules/@electron/remote/dist/src/common/module-names.d.ts
+	удалено:       Postman/app/resources/app/node_modules/@electron/remote/dist/src/common/module-names.js
+	удалено:       Postman/app/resources/app/node_modules/@electron/remote/dist/src/common/type-utils.d.ts
+	удалено:       Postman/app/resources/app/node_modules/@electron/remote/dist/src/common/type-utils.js
+	удалено:       Postman/app/resources/app/node_modules/@electron/remote/dist/src/main/index.d.ts
+	удалено:       Postman/app/resources/app/node_modules/@electron/remote/dist/src/main/index.js
+	удалено:       Postman/app/resources/app/node_modules/@electron/remote/dist/src/main/objects-registry.d.ts
+	удалено:       Postman/app/resources/app/node_modules/@electron/remote/dist/src/main/objects-registry.js
+	удалено:       Postman/app/resources/app/node_modules/@electron/remote/dist/src/main/server.d.ts
+	удалено:       Postman/app/resources/app/node_modules/@electron/remote/dist/src/main/server.js
+	удалено:       Postman/app/resources/app/node_modules/@electron/remote/dist/src/renderer/callbacks-registry.d.ts
+	удалено:       Postman/app/resources/app/node_modules/@electron/remote/dist/src/renderer/callbacks-registry.js
+	удалено:       Postman/app/resources/app/node_modules/@electron/remote/dist/src/renderer/index.d.ts
+	удалено:       Postman/app/resources/app/node_modules/@electron/remote/dist/src/renderer/index.js
+	удалено:       Postman/app/resources/app/node_modules/@electron/remote/dist/src/renderer/remote.d.ts
+	удалено:       Postman/app/resources/app/node_modules/@electron/remote/dist/src/renderer/remote.js
+	удалено:       Postman/app/resources/app/node_modules/@electron/remote/index.d.ts
+	удалено:       Postman/app/resources/app/node_modules/@electron/remote/main/index.d.ts
+	удалено:       Postman/app/resources/app/node_modules/@electron/remote/main/index.js
+	удалено:       Postman/app/resources/app/node_modules/@electron/remote/package.json
+	удалено:       Postman/app/resources/app/node_modules/@electron/remote/renderer/index.d.ts
+	удалено:       Postman/app/resources/app/node_modules/@electron/remote/renderer/index.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/_empty.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/_prelude.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/assert.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/browser.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/browser1.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/build/Release/keytar.node
+	удалено:       Postman/app/resources/app/node_modules/native_modules/constants.json
+	удалено:       Postman/app/resources/app/node_modules/native_modules/core_bg.wasm
+	удалено:       Postman/app/resources/app/node_modules/native_modules/duplex.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/empty.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/error_details.proto
+	удалено:       Postman/app/resources/app/node_modules/native_modules/events.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/exec-child.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/index.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/index1.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/index10.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/index11.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/index12.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/index2.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/index3.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/index4.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/index5.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/index6.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/index7.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/index8.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/index9.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/main.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/passthrough.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/prebuilds/linux-x64/node.napi.node
+	удалено:       Postman/app/resources/app/node_modules/native_modules/prebuilds/linux-x64/node.napi1.node
+	удалено:       Postman/app/resources/app/node_modules/native_modules/proto/channelz.proto
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/LICENSE
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/dist/light/protobuf.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/dist/light/protobuf.js.map
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/dist/light/protobuf.min.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/dist/light/protobuf.min.js.map
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/dist/minimal/protobuf.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/dist/minimal/protobuf.js.map
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/dist/minimal/protobuf.min.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/dist/minimal/protobuf.min.js.map
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/dist/protobuf.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/dist/protobuf.js.map
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/dist/protobuf.min.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/dist/protobuf.min.js.map
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/ext/debug/index.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/ext/descriptor/index.d.ts
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/ext/descriptor/index.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/ext/descriptor/test.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/google/LICENSE
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/google/api/annotations.json
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/google/api/annotations.proto
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/google/api/http.json
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/google/api/http.proto
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/google/protobuf/api.json
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/google/protobuf/api.proto
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/google/protobuf/descriptor.json
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/google/protobuf/descriptor.proto
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/google/protobuf/source_context.json
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/google/protobuf/source_context.proto
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/google/protobuf/type.json
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/google/protobuf/type.proto
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/google/rpc/error_details.json
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/google/rpc/error_details.proto
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/google/rpc/status.json
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/google/rpc/status.proto
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/index.d.ts
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/index.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/light.d.ts
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/light.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/minimal.d.ts
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/minimal.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/package.json
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/scripts/postinstall.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/src/common.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/src/converter.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/src/decoder.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/src/encoder.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/src/enum.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/src/field.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/src/index-light.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/src/index-minimal.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/src/index.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/src/mapfield.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/src/message.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/src/method.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/src/namespace.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/src/object.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/src/oneof.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/src/parse.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/src/reader.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/src/reader_buffer.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/src/root.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/src/roots.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/src/rpc.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/src/rpc/service.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/src/service.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/src/tokenize.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/src/type.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/src/types.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/src/typescript.jsdoc
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/src/util.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/src/util/longbits.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/src/util/minimal.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/src/verifier.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/src/wrappers.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/src/writer.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/src/writer_buffer.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/protobufjs/tsconfig.json
+	удалено:       Postman/app/resources/app/node_modules/native_modules/punycode.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/readable.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/server.key
+	удалено:       Postman/app/resources/app/node_modules/native_modules/server.pub
+	удалено:       Postman/app/resources/app/node_modules/native_modules/status.proto
+	удалено:       Postman/app/resources/app/node_modules/native_modules/string_decoder.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/swap_and_relaunch.sh
+	удалено:       Postman/app/resources/app/node_modules/native_modules/transform.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/url.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/util.js
+	удалено:       Postman/app/resources/app/node_modules/native_modules/writable.js
+	удалено:       Postman/app/resources/app/node_modules_circular-json_build_circular-json_node_js-50cfb098c29ccbc9.min.js
+	удалено:       Postman/app/resources/app/package.json
+	удалено:       Postman/app/resources/app/plugins/prepackedPlugins.json
+	удалено:       Postman/app/resources/app/postman-runtime-89333b75a3dcbd11.min.js
+	удалено:       Postman/app/resources/app/preload.js
+	удалено:       Postman/app/resources/app/preload_desktop.js
+	удалено:       Postman/app/resources/app/runtime_agents_IPCAgent_js-ee4693af8e65a1b2.min.js
+	удалено:       Postman/app/resources/app/services/crx/fmkadmapgofadopljbjfkapdkoienihi.crx
+	удалено:       Postman/app/resources/app/services/crx/pfgnfdagidkfgccljigdamigbcnndkod.crx
+	удалено:       Postman/app/resources/app/services_AppRefreshTokenManager_js-b3ef37c170436e22.min.js
+	удалено:       Postman/app/resources/app/services_LeaderSelection_js-e566c94242528122.min.js
+	удалено:       Postman/app/resources/app/services_OAuth2WindowManager_js-2c55950b291a11bb.min.js
+	удалено:       Postman/app/resources/app/services_TrackManagementService_js-41fdc58d35c15208.min.js
+	удалено:       Postman/app/resources/app/services_automation-testing_ExecutionSystemManager_js-02fb9f6b5448f984.min.js
+	удалено:       Postman/app/resources/app/services_automation-testing_utils_promise_js-0fc8a8abc5f17125.min.js
+	удалено:       Postman/app/resources/app/services_devtoolsInstaller_js-53f039a2bfa4d0fd.min.js
+	удалено:       Postman/app/resources/app/services_interceptorBridgeInstaller_js-badec058f7696593.min.js
+	удалено:       Postman/app/resources/app/services_proxyCertificateService_js-bbef803e9d0e5877.min.js
+	удалено:       Postman/app/resources/app/services_workingDirManager_js-4682304a3eec7713.min.js
+	удалено:       Postman/app/resources/app/startup.js
+	удалено:       Postman/app/resources/app/utils_enableTracing_js-38b9759cb8cc306d.min.js
+	удалено:       Postman/app/resources/app/vendors-node_modules_1password_sdk_dist_sdk_js-node_modules_postman_grpc-js_build_src_index_j-49de12-518cd3cf476cada8.min.js
+	удалено:       Postman/app/resources/app/vendors-node_modules_ai-sdk_anthropic_dist_index_js-node_modules_ai-sdk_deepseek_dist_index_j-eec320-6a5aebdbf38591da.min.js
+	удалено:       Postman/app/resources/app/vendors-node_modules_aws-sign2_index_js-node_modules_aws4_aws4_js-node_modules_caseless_index-14de97-14b0e3253654b47e.min.js
+	удалено:       Postman/app/resources/app/vendors-node_modules_mime-types_index_js-e8c67f0bd6e98e21.min.js
+	удалено:       Postman/app/resources/app/vendors-node_modules_node-forge_lib_index_js-node_modules_postman_pem_dist_index_js-d16d3ebe74712d67.min.js
+	удалено:       Postman/app/resources/app/vendors-node_modules_postman-collection_index_js-2d4afdb450ca8b8d.min.js
+	удалено:       Postman/app/resources/app/vendors-node_modules_postman_runtime_runtime-rpc-electron_dist_index_js-node_modules_postman_-dc9a61-5c4a0e3f1dd13eb3.min.js
+	удалено:       Postman/app/resources/app/vendors-node_modules_request_index_js-0784c2c06c238767.min.js
+	удалено:       Postman/app/resources/app/vendors-node_modules_semver_semver_js-ec06222d20c286d6.min.js
+	удалено:       Postman/app/resources/app/vendors-node_modules_shell-env_index_js-92f0719039ba676c.min.js
+	удалено:       Postman/app/resources/app/vendors-node_modules_systeminformation_lib_index_js-a4e76ab59597226b.min.js
+	удалено:       Postman/app/resources/app/vendors-node_modules_unzip-crx-3_dist_index_js-b284360cad0d5ffd.min.js
+	удалено:       Postman/app/resources/app/yarn.lock
+	удалено:       Postman/app/resources/profile.json
+	удалено:       Postman/app/snapshot_blob.bin
+	удалено:       Postman/app/v8_context_snapshot.bin
+	удалено:       Postman/app/vk_swiftshader_icd.json
+	удалено:       Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg
+	удалено:       Telegram/Telegram
+	удалено:       Telegram/Updater
+	удалено:       VSCodeUserSetup-x64-1.100.3.exe
+	удалено:       VSCodeUserSetup-x64-1.101.2.exe
+	удалено:       code_1.100.2-1747260578_amd64.deb
+	удалено:       code_1.102.0-1752099874_amd64.deb
+	удалено:       ktalk3.1.0amd64(1).deb
+	удалено:       ktalk3.1.0amd64.deb
+	удалено:       ktalk3.1.0x86_64(1).AppImage
+	удалено:       ktalk3.1.0x86_64.AppImage
+	удалено:       ktalk3.JmbqWHoW.1.0amd64.deb.part
+	удалено:       onlyoffice-desktopeditors_amd64.deb
+	удалено:       opera-stable_119.0.5497.70_amd64.deb
+	удалено:       ventoy-1.1.05-linux.tar.gz
+	удалено:       ventoy-1.1.05/CreatePersistentImg.sh
+	удалено:       ventoy-1.1.05/ExtendPersistentImg.sh
+	удалено:       ventoy-1.1.05/README
+	удалено:       ventoy-1.1.05/Ventoy2Disk.sh
+	удалено:       ventoy-1.1.05/VentoyGUI.aarch64
+	удалено:       ventoy-1.1.05/VentoyGUI.i386
+	удалено:       ventoy-1.1.05/VentoyGUI.mips64el
+	удалено:       ventoy-1.1.05/VentoyGUI.x86_64
+	удалено:       ventoy-1.1.05/VentoyPlugson.sh
+	удалено:       ventoy-1.1.05/VentoyVlnk.sh
+	удалено:       ventoy-1.1.05/VentoyWeb.sh
+	удалено:       ventoy-1.1.05/WebUI/favicon.ico
+	удалено:       ventoy-1.1.05/WebUI/index.html
+	удалено:       ventoy-1.1.05/WebUI/static/AdminLTE/css/AdminLTE.min.css
+	удалено:       ventoy-1.1.05/WebUI/static/AdminLTE/css/skins/skin-blue.min.css
+	удалено:       ventoy-1.1.05/WebUI/static/AdminLTE/js/app.min.js
+	удалено:       ventoy-1.1.05/WebUI/static/bootstrap/css/bootstrap-theme.min.css
+	удалено:       ventoy-1.1.05/WebUI/static/bootstrap/css/bootstrap.min.css
+	удалено:       ventoy-1.1.05/WebUI/static/bootstrap/fonts/glyphicons-halflings-regular.eot
+	удалено:       ventoy-1.1.05/WebUI/static/bootstrap/fonts/glyphicons-halflings-regular.svg
+	удалено:       ventoy-1.1.05/WebUI/static/bootstrap/fonts/glyphicons-halflings-regular.ttf
+	удалено:       ventoy-1.1.05/WebUI/static/bootstrap/fonts/glyphicons-halflings-regular.woff
+	удалено:       ventoy-1.1.05/WebUI/static/bootstrap/fonts/glyphicons-halflings-regular.woff2
+	удалено:       ventoy-1.1.05/WebUI/static/bootstrap/js/bootstrap.min.js
+	удалено:       ventoy-1.1.05/WebUI/static/css/font-awesome.min.css
+	удалено:       ventoy-1.1.05/WebUI/static/css/ionicons.min.css
+	удалено:       ventoy-1.1.05/WebUI/static/css/vtoy.css
+	удалено:       ventoy-1.1.05/WebUI/static/fonts/fontawesome-webfont.ttf
+	удалено:       ventoy-1.1.05/WebUI/static/fonts/fontawesome-webfont.woff
+	удалено:       ventoy-1.1.05/WebUI/static/fonts/fontawesome-webfont.woff2
+	удалено:       ventoy-1.1.05/WebUI/static/fonts/glyphicons-halflings-regular.ttf
+	удалено:       ventoy-1.1.05/WebUI/static/fonts/glyphicons-halflings-regular.woff
+	удалено:       ventoy-1.1.05/WebUI/static/fonts/glyphicons-halflings-regular.woff2
+	удалено:       ventoy-1.1.05/WebUI/static/fonts/ionicons.eot
+	удалено:       ventoy-1.1.05/WebUI/static/fonts/ionicons.ttf
+	удалено:       ventoy-1.1.05/WebUI/static/img/VentoyLogo.png
+	удалено:       ventoy-1.1.05/WebUI/static/img/dropdown.png
+	удалено:       ventoy-1.1.05/WebUI/static/img/refresh.ico
+	удалено:       ventoy-1.1.05/WebUI/static/js/jQuery-2.1.4.min.js
+	удалено:       ventoy-1.1.05/WebUI/static/js/jquery.validate.min.js
+	удалено:       ventoy-1.1.05/WebUI/static/js/jquery.vtoy.alert.js
+	удалено:       ventoy-1.1.05/WebUI/static/js/languages.js
+	удалено:       ventoy-1.1.05/WebUI/static/js/vtoy.js
+	удалено:       ventoy-1.1.05/boot/boot.img
+	удалено:       ventoy-1.1.05/boot/core.img.xz
+	удалено:       ventoy-1.1.05/log.txt
+	удалено:       ventoy-1.1.05/plugin/ventoy/theme/background.png
+	удалено:       ventoy-1.1.05/plugin/ventoy/theme/icons/deepin.png
+	удалено:       ventoy-1.1.05/plugin/ventoy/theme/icons/red-hat.png
+	удалено:       ventoy-1.1.05/plugin/ventoy/theme/icons/ubuntu.png
+	удалено:       ventoy-1.1.05/plugin/ventoy/theme/icons/vtoyiso.png
+	удалено:       ventoy-1.1.05/plugin/ventoy/theme/menu_c.png
+	удалено:       ventoy-1.1.05/plugin/ventoy/theme/menu_e.png
+	удалено:       ventoy-1.1.05/plugin/ventoy/theme/menu_n.png
+	удалено:       ventoy-1.1.05/plugin/ventoy/theme/menu_ne.png
+	удалено:       ventoy-1.1.05/plugin/ventoy/theme/menu_nw.png
+	удалено:       ventoy-1.1.05/plugin/ventoy/theme/menu_s.png
+	удалено:       ventoy-1.1.05/plugin/ventoy/theme/menu_se.png
+	удалено:       ventoy-1.1.05/plugin/ventoy/theme/menu_sw.png
+	удалено:       ventoy-1.1.05/plugin/ventoy/theme/menu_w.png
+	удалено:       ventoy-1.1.05/plugin/ventoy/theme/select_c.png
+	удалено:       ventoy-1.1.05/plugin/ventoy/theme/slider_c.png
+	удалено:       ventoy-1.1.05/plugin/ventoy/theme/slider_n.png
+	удалено:       ventoy-1.1.05/plugin/ventoy/theme/slider_s.png
+	удалено:       ventoy-1.1.05/plugin/ventoy/theme/terminal_box_c.png
+	удалено:       ventoy-1.1.05/plugin/ventoy/theme/terminal_box_e.png
+	удалено:       ventoy-1.1.05/plugin/ventoy/theme/terminal_box_n.png
+	удалено:       ventoy-1.1.05/plugin/ventoy/theme/terminal_box_ne.png
+	удалено:       ventoy-1.1.05/plugin/ventoy/theme/terminal_box_nw.png
+	удалено:       ventoy-1.1.05/plugin/ventoy/theme/terminal_box_s.png
+	удалено:       ventoy-1.1.05/plugin/ventoy/theme/terminal_box_se.png
+	удалено:       ventoy-1.1.05/plugin/ventoy/theme/terminal_box_sw.png
+	удалено:       ventoy-1.1.05/plugin/ventoy/theme/terminal_box_w.png
+	удалено:       ventoy-1.1.05/plugin/ventoy/theme/theme.txt
+	удалено:       ventoy-1.1.05/plugin/ventoy/ventoy.json
+	удалено:       ventoy-1.1.05/plugin/ventoy/ventoy_grub.cfg
+	удалено:       ventoy-1.1.05/tool/ENROLL_THIS_KEY_IN_MOKMANAGER.cer
+	удалено:       ventoy-1.1.05/tool/VentoyGTK.glade
+	удалено:       ventoy-1.1.05/tool/VentoyWorker.sh
+	удалено:       ventoy-1.1.05/tool/aarch64/Plugson.xz
+	удалено:       ventoy-1.1.05/tool/aarch64/V2DServer.xz
+	удалено:       ventoy-1.1.05/tool/aarch64/Ventoy2Disk.gtk3
+	удалено:       ventoy-1.1.05/tool/aarch64/Ventoy2Disk.qt5
+	удалено:       ventoy-1.1.05/tool/aarch64/ash.xz
+	удалено:       ventoy-1.1.05/tool/aarch64/hexdump.xz
+	удалено:       ventoy-1.1.05/tool/aarch64/mkexfatfs.xz
+	удалено:       ventoy-1.1.05/tool/aarch64/mount.exfat-fuse.xz
+	удалено:       ventoy-1.1.05/tool/aarch64/vlnk.xz
+	удалено:       ventoy-1.1.05/tool/aarch64/vtoycli.xz
+	удалено:       ventoy-1.1.05/tool/aarch64/vtoygpt.xz
+	удалено:       ventoy-1.1.05/tool/aarch64/xzcat
+	удалено:       ventoy-1.1.05/tool/distro_gui_type.json
+	удалено:       ventoy-1.1.05/tool/i386/Plugson.xz
+	удалено:       ventoy-1.1.05/tool/i386/V2DServer.xz
+	удалено:       ventoy-1.1.05/tool/i386/Ventoy2Disk.gtk2
+	удалено:       ventoy-1.1.05/tool/i386/Ventoy2Disk.gtk3
+	удалено:       ventoy-1.1.05/tool/i386/Ventoy2Disk.qt5
+	удалено:       ventoy-1.1.05/tool/i386/ash.xz
+	удалено:       ventoy-1.1.05/tool/i386/hexdump.xz
+	удалено:       ventoy-1.1.05/tool/i386/mkexfatfs.xz
+	удалено:       ventoy-1.1.05/tool/i386/mount.exfat-fuse.xz
+	удалено:       ventoy-1.1.05/tool/i386/vlnk.xz
+	удалено:       ventoy-1.1.05/tool/i386/vtoycli.xz
+	удалено:       ventoy-1.1.05/tool/i386/vtoygpt.xz
+	удалено:       ventoy-1.1.05/tool/i386/xzcat
+	удалено:       ventoy-1.1.05/tool/languages.json
+	удалено:       ventoy-1.1.05/tool/mips64el/Plugson.xz
+	удалено:       ventoy-1.1.05/tool/mips64el/V2DServer.xz
+	удалено:       ventoy-1.1.05/tool/mips64el/Ventoy2Disk.gtk3
+	удалено:       ventoy-1.1.05/tool/mips64el/Ventoy2Disk.qt5
+	удалено:       ventoy-1.1.05/tool/mips64el/ash.xz
+	удалено:       ventoy-1.1.05/tool/mips64el/hexdump.xz
+	удалено:       ventoy-1.1.05/tool/mips64el/mkexfatfs.xz
+	удалено:       ventoy-1.1.05/tool/mips64el/mount.exfat-fuse.xz
+	удалено:       ventoy-1.1.05/tool/mips64el/vlnk.xz
+	удалено:       ventoy-1.1.05/tool/mips64el/vtoycli.xz
+	удалено:       ventoy-1.1.05/tool/mips64el/vtoygpt.xz
+	удалено:       ventoy-1.1.05/tool/mips64el/xzcat
+	удалено:       ventoy-1.1.05/tool/plugson.tar.xz
+	удалено:       ventoy-1.1.05/tool/ventoy_lib.sh
+	удалено:       ventoy-1.1.05/tool/x86_64/Plugson
+	удалено:       ventoy-1.1.05/tool/x86_64/V2DServer
+	удалено:       ventoy-1.1.05/tool/x86_64/Ventoy2Disk.gtk2
+	удалено:       ventoy-1.1.05/tool/x86_64/Ventoy2Disk.gtk3
+	удалено:       ventoy-1.1.05/tool/x86_64/Ventoy2Disk.qt5
+	удалено:       ventoy-1.1.05/tool/x86_64/ash
+	удалено:       ventoy-1.1.05/tool/x86_64/hexdump
+	удалено:       ventoy-1.1.05/tool/x86_64/log.txt
+	удалено:       ventoy-1.1.05/tool/x86_64/mkexfatfs
+	удалено:       ventoy-1.1.05/tool/x86_64/mount.exfat-fuse
+	удалено:       ventoy-1.1.05/tool/x86_64/vlnk
+	удалено:       ventoy-1.1.05/tool/x86_64/vtoycli
+	удалено:       ventoy-1.1.05/tool/x86_64/vtoygpt
+	удалено:       ventoy-1.1.05/tool/x86_64/xzcat
+	удалено:       ventoy-1.1.05/ventoy/ventoy.disk.img.xz
+	удалено:       ventoy-1.1.05/ventoy/ventoy_4k.disk.img.xz
+	удалено:       ventoy-1.1.05/ventoy/version
+	удалено:       "\320\237\321\200\320\276\321\210\320\273\320\270.pdf"
+
+Неотслеживаемые файлы:
+  (используйте «git add <файл>...», чтобы добавить в то, что будет включено в коммит)
+	log
+
