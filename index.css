@@ -11,6 +11,10 @@ button{
     padding: 0;
     cursor: pointer;
 }
+section{
+    width: 1440px;
+    display: flex;
+}
 #root{
     display: flex;
     flex-direction: column;
@@ -71,4 +75,45 @@ header{
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
+}
+#section_1{
+    flex-direction: row;
+    margin-top: 50px;
+}
+#left_of_section_1{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    width: 660px;
+    height: 749px;
+    margin-bottom: 116px;
+}
+#Design_addicted{
+    margin: 0 2px;
+    margin-top: 116px;
+    height: 20px;
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: uppercase;
+    background-color: #E2B013;
+    color: white;
+}
+.section-span{
+    font-weight: 400;
+    margin-top: 40px;
+}
+#section_1-img{
+    position: relative;
+    top: -50px;
+}
+#section_2{
+    flex-direction: row;
+    height: 635px;
+}
+.wrapper{
+    margin: 0 auto;
+    width: calc(100% - 120px);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
 }
