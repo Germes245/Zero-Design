@@ -42,13 +42,15 @@ header{
     flex-direction: row;
     align-items: center;
 }
+.image{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
 #central_link{
     width: 137px;
     height: 74px;
     background-image: url('assets/IMAGE.svg');
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
 }
 #nav_of_header{
     display: flex;
@@ -72,9 +74,6 @@ header{
     background-color: #00000000;
     width: 50px;
     height: 50px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
 }
 #section_1{
     flex-direction: row;
@@ -109,11 +108,46 @@ header{
 #section_2{
     flex-direction: row;
     height: 635px;
+    align-items: center;
 }
 .wrapper{
+    height: 450px;
     margin: 0 auto;
     width: calc(100% - 120px);
     display: flex;
     flex-direction: row;
-    align-items: center;
+    justify-content: space-between;
+    align-items: stretch;
+}
+#wrapper-div{
+    width: 620px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: start;
+}
+#picture_1{
+    width: 660px;
+    background-image: url('assets/IMAGE.png');
+}
+#wrapper-div-div{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 8px;
+}
+.wrapper-div-div-div{
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    height: 38px;
+    gap: 10px;
+}
+.wrapper-div-div-div-div{
+    padding: 9px 0;
+    padding-left: 16px;
+    padding-right: 30px;
+    text-align: center;
+    background-color: black;
+    color: white;
 }
