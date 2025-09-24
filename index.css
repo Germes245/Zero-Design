@@ -7,6 +7,14 @@
     font-family: 'jost';
     box-sizing: border-box;
 }
+a{
+    text-decoration: none;
+    color: #000;
+}
+main{
+    display: flex;
+    flex-direction: column;
+}
 button{
     border: 0;
     padding: 0;
@@ -24,10 +32,11 @@ section{
 }
 header{
     width: 100%;
-    max-width: 1440px;
+    max-width: 1320px;
     height: 114px;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    justify-content: space-between;
     align-items: stretch;
 }
 #header_padding{
@@ -52,13 +61,18 @@ header{
     width: 137px;
     height: 74px;
     background-image: url('assets/main\ link.svg');
+    color: transparent;
 }
 #nav_of_header{
     display: flex;
     flex-direction: row;
     align-items: center;
 }
-#nav_of_header span{
+#nav_of_header ul{
+    display: flex;
+    flex-direction: row;
+}
+#nav_of_header a{
     font-size: 18px;
     font-weight: 400;
     margin: 0 10px;
@@ -100,6 +114,7 @@ header{
 }
 .section-span{
     font-weight: 400;
+    margin: 0;
     margin-top: 40px;
 }
 #section_1-img{
@@ -161,6 +176,7 @@ header{
 .section_3-span{
     background-color: #000;
     font-size: 36px;
+    font-weight: 400;
     color: #fff;
 }
 #section_3-table{
@@ -187,7 +203,7 @@ header{
     padding: 29px;
     background-color: #0000000A;
 }
-.section_3-table-cell span{
+.section_3-table-cell h3{
     font-size: 26px;
     font-weight: 400;
 }
@@ -208,7 +224,7 @@ header{
     height: 325px;
     display: flex;
     flex-direction: row;
-    gap: 46px;
+    justify-content: space-between;
 }
 .section_4-table-cell{
     width: 403px;
@@ -252,7 +268,7 @@ footer{
     flex-direction: column;
     align-items: stretch;
     padding: 60px 0;
-    gap: 16px;
+    gap: 60px;
 }
 #up_of_footer{
     display: flex;
@@ -279,6 +295,7 @@ footer{
     display: flex;
     flex-direction: row;
     gap: 16px;
+    height: 90px;
 }
 #up_of_footer-right{
     display: flex;
@@ -318,6 +335,7 @@ li::marker{
 .part-down_of_footer{
     display: flex;
     flex-direction: row;
+    gap: 3px;
 }
 .part-down_of_footer span:last-child{
     color: #E2B013;
