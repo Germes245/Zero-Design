@@ -7,6 +7,9 @@
     font-family: 'jost';
     box-sizing: border-box;
 }
+h3{
+    font-weight: 400;
+}
 a{
     text-decoration: none;
     color: #000;
@@ -23,6 +26,15 @@ button{
 section{
     width: 1320px;
     display: flex;
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+form div{
+    display: flex;
+    flex-direction: row;
+    height: 40px;
 }
 #root{
     display: flex;
@@ -89,6 +101,7 @@ header{
     background-color: #00000000;
     width: 50px;
     height: 50px;
+    color: transparent;
 }
 #section_1{
     flex-direction: row;
@@ -283,13 +296,17 @@ footer{
     align-items: stretch;
     gap: 34px;
 }
-#up_of_footer-left span{
+#up_of_footer-left label{
     font-size: 24px;
 }
 #up_of_footer-left-form{
     display: flex;
-    flex-direction: row;
-    height: 40px;
+    flex-direction: column;
+    gap: 30px;
+}
+#email-input{
+    width: 370px;
+    border: 1px solid #E2E1DF;
 }
 #buttons{
     display: flex;
@@ -309,8 +326,10 @@ footer{
     gap: 20px;
     width: 200px;
 }
-.list_of_ul span{
+.list_of_ul h4{
+    margin: 0;
     font-size: 24px;
+    font-weight: 400;
 }
 ul{
     margin: 0;

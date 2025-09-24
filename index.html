@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="Normalize.css">
     <link rel="stylesheet" href="index.css">
-    <title>Document</title>
+    <title>UI Kit - Design Addicted</title>
 </head>
 <body>
     <div id="root">
@@ -23,8 +23,8 @@
             </div>
             <div class="part_of_header">
                 <button id="button_buy_now">$129 Buy Now</button>
-                <button class="part_of_header-button image" style="background-image: url('assets/search.svg');"></button>
-                <button class="part_of_header-button image" style="background-image: url('assets/wagen.svg');"></button>
+                <button class="part_of_header-button image" aria-label="Search" style="background-image: url('assets/search.svg');"></button>
+                <button class="part_of_header-button image" aria-label="Shopping cart" style="background-image: url('assets/wagen.svg');"></button>
             </div>
         </header>
         <main>
@@ -36,30 +36,30 @@
                     <p class="section-span" style="font-size: 26px; color: #333333;">Zero is a Webflow Ecommerce and CMS UI kit including several carefully designed page layouts.</p>
                     <!--<span class="section-span" style="font-size: 96px;">A stylish UI Kit</span>
                     <span class="section-span" style="font-size: 26px; color: #333333;">Zero is a Webflow Ecommerce and CMS UI kit including several carefully designed page layouts.</span>-->
-                    <img src="assets/Frame.svg" alt="" style="margin-top: 86px;">
+                    <img src="assets/Frame.svg" alt="Call to action button" style="margin-top: 86px;">
                 </div>
-                <img src="assets/34ca5858104d3f3828d19ac0097f352055a90ad3.png" alt="" id="section_1-img">
+                <img src="assets/34ca5858104d3f3828d19ac0097f352055a90ad3.png" alt="UI Kit presentation" id="section_1-img">
             </section>
             <section id="section_3">
                 <h2 class="section_3-span">LANDING PAGES</h2>
                 <div id="section_3-table">
                     <div class="section_3-table-row">
                         <article class="section_3-table-cell">
-                            <img src="./assets/for landing pages.jpg" alt="" width="100%">
+                            <img src="./assets/for landing pages.jpg" alt="Landing page preview" width="100%">
                             <h3>LANDING 1</h3>
                         </article>
                         <article class="section_3-table-cell">
-                            <img src="./assets/for landing pages.jpg" alt="" width="100%">
+                            <img src="./assets/for landing pages.jpg" alt="Landing page preview" width="100%">
                             <h3>LANDING 1</h3>
                         </article>
                     </div>
                     <div class="section_3-table-row">
                         <article class="section_3-table-cell">
-                            <img src="./assets/for landing pages.jpg" alt="" width="100%">
+                            <img src="./assets/for landing pages.jpg" alt="Landing page preview" width="100%">
                             <h3>LANDING 1</h3>
                         </article>
                         <article class="section_3-table-cell">
-                            <img src="./assets/for landing pages.jpg" alt="" width="100%">
+                            <img src="./assets/for landing pages.jpg" alt="Landing page preview" width="100%">
                             <h3>LANDING 1</h3>
                         </article>
                     </div>
@@ -96,67 +96,69 @@
             <div id="up_of_footer">
                 <div style="display: flex; flex-direction: column; justify-content: space-between; gap: 30px;">
                 <div id="up_of_footer-left">
-                        <span>Subscribe our newsletter</span>
-                        <form action="" id="up_of_footer-left-form">
-                            <input style="width: 370px; border: 1px solid #E2E1DF;"></input>
+                    <form action="" id="up_of_footer-left-form">
+                        <label for="email-input">email for subscribing</label>
+                        <div>
+                            <input id="email-input" type="email" placeholder="your email"></input>
                             <button type="submit" style="width: 120px; background-color: black; color: white;">Subscribe</button>
-                        </form>
-                    </div>
-                    <div id="buttons">
-                        <a href="#" aria-label="Facebook"><img src="/assets/square-facebook-brands-solid-full.svg" alt="" height="100%"></a>
-                        <a href="#" aria-label="youtube"><img src="/assets/youtube-brands-solid-full.svg" alt="" height="100%"></a>
-                        <a href="#" aria-label="Instagram"><img src="/assets/instagram-brands-solid-full.svg" alt="" height="100%"></a>
-                    </div>
+                        </div>
+                    </form>
                 </div>
-                <div id="up_of_footer-right">
-                    <div class="list_of_ul">
-                        <span>Lorem, ipsum.</span>
-                        <ul><a href=""></a>
-                            <li><a href="">Lorem, ipsum.</a></li>
-                            <li><a href="">Lorem, ipsum.</a></li>
-                            <li><a href="">Lorem, ipsum.</a></li>
-                            <li><a href="">Lorem, ipsum.</a></li>
-                        </ul>
-                        <span>Lorem, ipsum.</span>
-                        <ul>
-                            <li><a href="">Lorem, ipsum.</a></li>
-                            <li><a href="">Lorem, ipsum.</a></li>
-                            <li><a href="">Lorem, ipsum.</a></li>
-                            <li><a href="">Lorem, ipsum.</a></li>
-                            <li><a href="">Lorem, ipsum.</a></li>
-                            <li><a href="">Lorem, ipsum.</a></li>
-                            <li><a href="">Lorem, ipsum.</a></li>
-                        </ul>
-                    </div>
-                    <div class="list_of_ul">
-                        <span>Lorem, ipsum.</span>
-                        <ul>
-                            <li><a href="">Lorem, ipsum.</a></li>
-                            <li><a href="">Lorem, ipsum.</a></li>
-                            <li><a href="">Lorem, ipsum.</a></li>
-                            <li><a href="">Lorem, ipsum.</a></li>
-                            <li><a href="">Lorem, ipsum.</a></li>
-                            <li><a href="">Lorem, ipsum.</a></li>
-                            <li><a href="">Lorem, ipsum.</a></li>
-                            <li><a href="">Lorem, ipsum.</a></li>
-                            <li><a href="">Lorem, ipsum.</a></li>
-                            <li><a href="">Lorem, ipsum.</a></li>
-                            <li><a href="">Lorem, ipsum.</a></li>
-                        </ul>
-                    </div>
-                    <div class="list_of_ul">
-                        <span>Lorem, ipsum.</span>
-                        <ul>
-                            <li><a href="">Lorem, ipsum.</a></li>
-                            <li><a href="">Lorem, ipsum.</a></li>
-                            <li><a href="">Lorem, ipsum.</a></li>
-                            <li><a href="">Lorem, ipsum.</a></li>
-                            <li><a href="">Lorem, ipsum.</a></li>
-                            <li><a href="">Lorem, ipsum.</a></li>
-                            <li><a href="">Lorem, ipsum.</a></li>
-                        </ul>
-                    </div>
+                <div id="buttons">
+                    <a href="#" aria-label="Facebook"><img src="/assets/square-facebook-brands-solid-full.svg" alt="Facebook" height="100%"></a>
+                    <a href="#" aria-label="youtube"><img src="/assets/youtube-brands-solid-full.svg" alt="youtube" height="100%"></a>
+                    <a href="#" aria-label="Instagram"><img src="/assets/instagram-brands-solid-full.svg" alt="Instagram" height="100%"></a>
                 </div>
+                </div>
+                <nav id="up_of_footer-right">
+                    <div class="list_of_ul">
+                        <h4>Lorem, ipsum.</h4>
+                        <ul>
+                            <li><a href="">Lorem, ipsum.</a></li>
+                            <li><a href="">Lorem, ipsum.</a></li>
+                            <li><a href="">Lorem, ipsum.</a></li>
+                            <li><a href="">Lorem, ipsum.</a></li>
+                        </ul>
+                        <h4>Lorem, ipsum.</h4>
+                        <ul>
+                            <li><a href="">Lorem, ipsum.</a></li>
+                            <li><a href="">Lorem, ipsum.</a></li>
+                            <li><a href="">Lorem, ipsum.</a></li>
+                            <li><a href="">Lorem, ipsum.</a></li>
+                            <li><a href="">Lorem, ipsum.</a></li>
+                            <li><a href="">Lorem, ipsum.</a></li>
+                            <li><a href="">Lorem, ipsum.</a></li>
+                        </ul>
+                    </div>
+                    <div class="list_of_ul">
+                        <h4>Lorem, ipsum.</h4>
+                        <ul>
+                            <li><a href="">Lorem, ipsum.</a></li>
+                            <li><a href="">Lorem, ipsum.</a></li>
+                            <li><a href="">Lorem, ipsum.</a></li>
+                            <li><a href="">Lorem, ipsum.</a></li>
+                            <li><a href="">Lorem, ipsum.</a></li>
+                            <li><a href="">Lorem, ipsum.</a></li>
+                            <li><a href="">Lorem, ipsum.</a></li>
+                            <li><a href="">Lorem, ipsum.</a></li>
+                            <li><a href="">Lorem, ipsum.</a></li>
+                            <li><a href="">Lorem, ipsum.</a></li>
+                            <li><a href="">Lorem, ipsum.</a></li>
+                        </ul>
+                    </div>
+                    <div class="list_of_ul">
+                        <h4>Lorem, ipsum.</h4>
+                        <ul>
+                            <li><a href="">Lorem, ipsum.</a></li>
+                            <li><a href="">Lorem, ipsum.</a></li>
+                            <li><a href="">Lorem, ipsum.</a></li>
+                            <li><a href="">Lorem, ipsum.</a></li>
+                            <li><a href="">Lorem, ipsum.</a></li>
+                            <li><a href="">Lorem, ipsum.</a></li>
+                            <li><a href="">Lorem, ipsum.</a></li>
+                        </ul>
+                    </div>
+                </nav>
             </div>
             <div id="down_of_footer">
                 <div class="part-down_of_footer">
